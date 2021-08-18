@@ -44,6 +44,7 @@
 			</CardFooter>
 		</Card>
 		<img src="/res/bananas.svg" alt="">
+		<img src="/res/test.jpg" alt="">
 	</Container>
 </main>
 
