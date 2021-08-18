@@ -43,6 +43,7 @@
 				{/if}
 			</CardFooter>
 		</Card>
+		<img src="/res/bananas.svg" alt="">
 	</Container>
 </main>
 
